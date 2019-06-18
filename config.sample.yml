@@ -1,0 +1,6 @@
+authtoken: YOUR_AUTH_TOKEN
+tunnels:
+  myapp:
+    proto: http
+    addr: 8080
+web_addr: 0.0.0.0:4040
